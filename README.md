@@ -121,9 +121,9 @@ salary-prediction-app/
 
 ## 📬 Contact
 
-📧 Created with ❤️ by \[Your Name]
-🔗 GitHub: [@CodeWithDks](https://github.com/CodeWithDks)
-🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/deepaksinghai)
+📧 Created with ❤️ by Fahmida FAthima
+🔗 GitHub: Fahmida FAthima  (https://github.com/FahmidaFathima)
+🌐 LinkedIn:(https://www.linkedin.com/in/fahmida-fathima-ai/)
 
 
 ```
